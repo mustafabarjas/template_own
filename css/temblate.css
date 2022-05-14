@@ -52,6 +52,12 @@ html{
     letter-spacing: -3px;
     font-weight: 800;
 }
+@media(max-width:768px){
+    .special-hedding{
+    font-size: 60px;
+    margin-left:20%;
+    }
+}
 .special-hedding +p{
     text-align: center;
     margin-top: -30px;
